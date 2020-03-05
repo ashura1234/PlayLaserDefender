@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "HippoGaming",
 "productName": "LaserDefender",
-"productVersion": "0.1",
+"productVersion": "1.0.0",
 "dataUrl": "PlayLaserDefender.data.unityweb",
 "wasmCodeUrl": "PlayLaserDefender.wasm.code.unityweb",
 "wasmFrameworkUrl": "PlayLaserDefender.wasm.framework.unityweb",
